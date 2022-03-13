@@ -1,0 +1,12 @@
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\bin\Debug\LivingObjects.exe.config
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\bin\Debug\LivingObjects.exe
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\bin\Debug\LivingObjects.pdb
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\obj\Debug\LivingObjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\obj\Debug\LivingObjects.Canvas.resources
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\obj\Debug\LivingObjects.Form1.resources
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\obj\Debug\LivingObjects.Properties.Resources.resources
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\obj\Debug\LivingObjects.csproj.GenerateResource.cache
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\obj\Debug\LivingObjects.csproj.CoreCompileInputs.cache
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\obj\Debug\LivingObjects.exe
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\obj\Debug\LivingObjects.pdb
+C:\Users\hejsk\source\repos\LivingObjects\LivingObjects\obj\Debug\LivingObjects.HealthBar.resources
